@@ -1,1 +1,1 @@
-https://wowowo142.github.io/wowowo_142.github.io/
+https://wowowo142.github.io/KoumeBirthday2018/
