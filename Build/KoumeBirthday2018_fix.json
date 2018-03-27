@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "KoumeBirthday2018",
+"dataUrl": "KoumeBirthday2018_fix.data.unityweb",
+"asmCodeUrl": "KoumeBirthday2018_fix.asm.code.unityweb",
+"asmMemoryUrl": "KoumeBirthday2018_fix.asm.memory.unityweb",
+"asmFrameworkUrl": "KoumeBirthday2018_fix.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
